@@ -1,0 +1,28 @@
+body {
+  background-color: #C6F66F;
+}
+
+h1, h2 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+article {
+  float: left;
+  width: 500px;
+  margin: 10px;
+}
+
+footer {
+  clear: both;
+  text-align: center;                 
+}
+
+a:link {
+  text-decoration: none;
+  color: #639A00;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #639A00;
+}
